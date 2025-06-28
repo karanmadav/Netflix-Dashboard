@@ -20,23 +20,18 @@ This Tableau dashboard provides visual insights into the Netflix dataset, highli
 | Tool     | Purpose                |
 |----------|------------------------|
 | Tableau  | Interactive dashboard  |
-| Excel    | Data preparation       |
+| Excel    | Data preparation       
 
----
+--- 
+## 📂 netflix-dashboard
 
-## 📁 Project Structure
-netflix-dashboard/
-│
-├── Tableau/
-│ └── Netflix_Dashboard.twbx
-│
-├── visuals_preview/
-│ └── netflix_dashboard.png
-│
-├── Data/
-│ └── netflix_data.xlsx
-│
-└── README.md
+Netflix_Dashboard.twbx → Tableau file
+
+netflix_data.xlsx → Cleaned dataset
+
+netflix_dashboard.png → Screenshot of dashboard
+
+README.md → Project overview and documentationd
 
 
 ---
