@@ -36,12 +36,6 @@ README.md → Project overview and documentationd
 
 ---
 
-## 📸 Dashboard Preview
-
-![Netflix Dashboard](visuals_preview/netflix_dashboard.png)
-
----
-
 ## 📅 Duration
 
 **April 2025 – May 2025**
