@@ -36,12 +36,6 @@ README.md → Project overview and documentationd
 
 ---
 
-## 📅 Duration
-
-**April 2025 – May 2025**
-
----
-
 ## 👨‍💻 Author
 
 **Karan Madav**  
